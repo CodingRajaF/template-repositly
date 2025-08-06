@@ -1,1 +1,1 @@
-# template-repositly
+# コーディングガイドライン
